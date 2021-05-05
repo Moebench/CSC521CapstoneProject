@@ -38,7 +38,7 @@
                 $mail->Body = "
                     Please click on the link below:<br><br>
                     
-                    <a href='http://weblab.salemstate.edu/~S0329939/MB/confirm.php?email=$email&token=$token'>Click Here</a>
+                    <a href='http://weblab.salemstate.edu/~S0329939/Capstone/confirm.php?email=$email&token=$token'>Click Here</a>
                 ";
 
                 if ($mail->send())

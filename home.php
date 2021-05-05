@@ -92,16 +92,16 @@ $resultDairy = $stmtDairy->fetchAll(PDO::FETCH_ASSOC);
             <div class="title">DEALS</div>
         </div>
         <div class="deal">
-            Save 20% on min-purchase of $149 on vegetables<br />
-            <Button class="coupon-btn">Add Coupon</Button>
+            Save 20% on min-purchase of $149 on vegetables with the code below<br />
+            <Button class="coupon-btn">Veggies20</Button>
         </div>
         <div class="deal">
-            Save 20% on min-purchase of $129 on fruits<br />
-            <Button class="coupon-btn">Add Coupon</Button>
+            Save 20% on min-purchase of $129 on fruits with the code below<br />
+            <Button class="coupon-btn">Fruits20</Button>
         </div>
         <div class="deal">
-            Save 20% on min-purchase of $119 on dairy<br />
-            <Button class="coupon-btn">Add Coupon</Button>
+            Save 20% on min-purchase of $119 on dairy with the code below<br />
+            <Button class="coupon-btn">Dairy20</Button>
         </div>
     </div>
     <!--Deals ends-->

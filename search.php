@@ -23,19 +23,19 @@ $resultSearch = $stmtSearch->fetchAll(PDO::FETCH_ASSOC);
     </div>
     <div class="menu" id="sticky">
         <ul class="menu-ul">
-            <a href="#home" class="a-menu">
+            <a href="home.php#home" class="a-menu">
                 <li>Home</li>
             </a>
-            <a href="#deals" class="a-menu">
+            <a href="home.php#deals" class="a-menu">
                 <li>Deals</li>
             </a>
-            <a href="#vegetables" class="a-menu">
+            <a href="home.php#vegetables" class="a-menu">
                 <li>Vegetables</li>
             </a>
-            <a href="#fruits" class="a-menu">
+            <a href="home.php#fruits" class="a-menu">
                 <li>Fruits</li>
             </a>
-            <a href="#dairy" class="a-menu">
+            <a href="home.php#dairy" class="a-menu">
                 <li>Dairy</li>
             </a>
             <a href="cart.php" class="a-menu">
